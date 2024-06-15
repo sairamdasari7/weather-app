@@ -52,23 +52,6 @@ This project is a weather application built using React. It fetches weather data
 
 5. Open your browser and navigate to `http://localhost:3000`.
 
-## Project Structure
-
-weather-app/
-── public/
-  ─ index.html
-── src/
-  ── components/
-     ── SearchComponent.js
-     ── ToggleComponent.js
-     ── WeatherComponent.js
-  ── styles/
-     ── GlobalStyles.js
-     ── theme.js
-  ── App.js
-  ── index.js
-  ── App.css
- ── package.json
 
 ## Components
 
