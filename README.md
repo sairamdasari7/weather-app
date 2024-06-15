@@ -1,3 +1,7 @@
+# Website
+
+https://getweatherfor-cities.netlify.app/
+
 # Weather App
 
 This project is a weather application built using React. It fetches weather data from the Open Weather API and displays the current weather information based on user input. It also includes a dark mode toggle feature.
@@ -51,21 +55,20 @@ This project is a weather application built using React. It fetches weather data
 ## Project Structure
 
 weather-app/
-├── public/
-│ ├── index.html
-├── src/
-│ ├── components/
-│ │ ├── SearchComponent.js
-│ │ ├── ToggleComponent.js
-│ │ ├── WeatherComponent.js
-│ ├── styles/
-│ │ ├── GlobalStyles.js
-│ │ ├── theme.js
-│ ├── App.js
-│ ├── index.js
-│ ├── App.css
-├── .env
-├── package.json
+── public/
+  ─ index.html
+── src/
+  ── components/
+     ── SearchComponent.js
+     ── ToggleComponent.js
+     ── WeatherComponent.js
+  ── styles/
+     ── GlobalStyles.js
+     ── theme.js
+  ── App.js
+  ── index.js
+  ── App.css
+ ── package.json
 
 ## Components
 
